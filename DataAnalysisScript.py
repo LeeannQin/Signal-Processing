@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Bo Wang
+@author: Qin
 @file: DataAnalysisScript1.py
 @time: 2021/12/29 14:39
 """
